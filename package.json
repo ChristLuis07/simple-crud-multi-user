@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "puq": "^0.0.0",
+    "sweetalert2": "^11.14.1"
+  }
+}
